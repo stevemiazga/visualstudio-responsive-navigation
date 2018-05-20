@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RWDNavigation", "RWDNavigation\RWDNavigation.csproj", "{874EB7D5-33EB-4F37-B8DC-156E71A1F1A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpandingNav", "ExpandingNav\ExpandingNav.csproj", "{90D45E4F-CF30-4EEA-B504-38B01E3D0497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpandingNavGrid", "ExpandingNavGrid\ExpandingNavGrid.csproj", "{2CF7A41E-7861-48F0-9FC1-5CC19440F46C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooterAnchorNav", "FooterAnchorNav\FooterAnchorNav.csproj", "{6E805ACB-E838-422D-9FB5-12444A757BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpandTouchNav", "ExpandTouchNav\ExpandTouchNav.csproj", "{728C002E-DADF-4870-8E1D-D41416C3BA59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNav", "SingleNav\SingleNav.csproj", "{039944B5-6D9D-45F5-AFA4-38A98B2E8656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconNav", "IconNav\IconNav.csproj", "{C942F3F6-3E03-4F7B-9FDF-533EC41C189A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874EB7D5-33EB-4F37-B8DC-156E71A1F1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874EB7D5-33EB-4F37-B8DC-156E71A1F1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874EB7D5-33EB-4F37-B8DC-156E71A1F1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874EB7D5-33EB-4F37-B8DC-156E71A1F1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D45E4F-CF30-4EEA-B504-38B01E3D0497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D45E4F-CF30-4EEA-B504-38B01E3D0497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D45E4F-CF30-4EEA-B504-38B01E3D0497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D45E4F-CF30-4EEA-B504-38B01E3D0497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF7A41E-7861-48F0-9FC1-5CC19440F46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF7A41E-7861-48F0-9FC1-5CC19440F46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF7A41E-7861-48F0-9FC1-5CC19440F46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF7A41E-7861-48F0-9FC1-5CC19440F46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E805ACB-E838-422D-9FB5-12444A757BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E805ACB-E838-422D-9FB5-12444A757BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E805ACB-E838-422D-9FB5-12444A757BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E805ACB-E838-422D-9FB5-12444A757BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728C002E-DADF-4870-8E1D-D41416C3BA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728C002E-DADF-4870-8E1D-D41416C3BA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728C002E-DADF-4870-8E1D-D41416C3BA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728C002E-DADF-4870-8E1D-D41416C3BA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039944B5-6D9D-45F5-AFA4-38A98B2E8656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039944B5-6D9D-45F5-AFA4-38A98B2E8656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039944B5-6D9D-45F5-AFA4-38A98B2E8656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039944B5-6D9D-45F5-AFA4-38A98B2E8656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C942F3F6-3E03-4F7B-9FDF-533EC41C189A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C942F3F6-3E03-4F7B-9FDF-533EC41C189A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C942F3F6-3E03-4F7B-9FDF-533EC41C189A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C942F3F6-3E03-4F7B-9FDF-533EC41C189A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8164B227-B528-4D4E-BE0D-EB3FEE8C3222}
+	EndGlobalSection
+EndGlobal
